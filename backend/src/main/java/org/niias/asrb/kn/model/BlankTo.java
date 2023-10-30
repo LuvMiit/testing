@@ -1,6 +1,7 @@
 package org.niias.asrb.kn.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import lombok.AllArgsConstructor;
 import lombok.Value;
 
 import java.time.LocalDate;
